@@ -4,22 +4,17 @@ header {
 }
 body {
     background-color: whitesmoke;
-  }
-  main {
-    background-color: white;
+    font-family: 'Montserrat', sans-serif;
   }
   main {
     background-color: white;
     padding: 16px;
   }
-  font-family: 'Montserrat', Regular 400;
-  body {
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto:wght@100&display=swap" rel="stylesheet">
+  .finstagram-post .user-info img {
+    border-radius: 50%;
   }
-  a.photo:hover{
-    padding: 10px; transition: padding 0.5s;
+  a.photo{
+  transition: padding 0.5s;
   }
   a.photo:hover{
     padding: 10px;
